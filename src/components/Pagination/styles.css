@@ -1,0 +1,11 @@
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  background: var(--white);
+  padding: 15px;
+  border-radius: var(--borderRadiousOne);
+}
+
+.pagination p {
+  user-select: none;
+}

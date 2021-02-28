@@ -1,0 +1,13 @@
+.categories {
+  margin: 10px 0 0 0;
+  background: var(--jaggedIce);
+  padding: 6px;
+}
+
+.categories button {
+  background: var(--white);
+}
+
+.categories .btn-active {
+  background: var(--orange);
+}

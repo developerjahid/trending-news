@@ -1,0 +1,30 @@
+.news-item {
+  margin: 15px 0;
+  background: var(--white);
+  border-radius: var(--borderRadiousOne);
+  padding: 20px;
+}
+.news-item .url a {
+  display: block;
+  margin-bottom: 7px;
+}
+.news-item .url a h5 {
+  font-size: 17px;
+}
+.news-item .url a p {
+  font-size: 14px;
+}
+.news-item img {
+  max-width: 390px;
+  margin-bottom: 10px;
+}
+
+.publish-source {
+  display: flex;
+  justify-content: space-between;
+}
+
+.source {
+  background: var(--grey);
+  padding: 2px 7px;
+}

@@ -1,0 +1,16 @@
+button {
+  background: var(--grey);
+  border: 0;
+  padding: 4px 7px;
+  margin: 3px;
+  border-radius: var(--borderRadiousOne);
+}
+
+.number-of-news {
+  margin-top: 10px;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  background: var(--white);
+  border-radius: var(--borderRadiousOne);
+}

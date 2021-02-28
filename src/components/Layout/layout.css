@@ -1,0 +1,16 @@
+.layout {
+  max-width: 450px;
+  margin: auto;
+  padding: 10px;
+}
+header {
+  padding: 0 15px;
+  border: var(--borderOne);
+  padding: 15px;
+  background: var(--white);
+  border-radius: var(--borderRadiousOne);
+}
+header h3 {
+  padding: 10px 0;
+  font-size: var(--mediumFont);
+}
